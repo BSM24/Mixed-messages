@@ -1,0 +1,1 @@
+This project is about the mixed messages challenge given in the codecademy full-stack developer course path.
